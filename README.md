@@ -15,3 +15,4 @@ About me
  height="100" alt="Salesforce Administrator"/>  
  </div>
 
+![2021-03_Badge_SF-Certified_Administrator_High-Res](https://github.com/user-attachments/assets/5956fc38-38d7-4427-b669-d1b90d9710eb)
