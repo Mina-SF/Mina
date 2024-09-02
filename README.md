@@ -10,9 +10,4 @@ About me
 </div>
 ☁ Salesforce Credentials
 
-<div align="center">
-  <img src = [https://mina-sf-dev-ed.develop.lightning.force.com/lightning/setup/ContentAssets/page?address=%2F03S8Y000000Dhbf]
- height="100" alt="Salesforce Administrator"/>  
- </div>
-
-
+ <td align="center" style="border:0px;"><img src="[(https://res.cloudinary.com/dvty4quls/image/upload/v1725311741/2021-03_Badge_SF-Certified_Administrator_High-Res_zw0d6h.png]" alt="Salesforce Administrator" style="width: 100px;"/><br><b>Salesforce Administrator</b></td>
