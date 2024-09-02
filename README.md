@@ -11,6 +11,6 @@ About me
 ☁ Salesforce Credentials
 
 <div align="center">
-  <img src="[https://raw.github.com/Mina-SF/Mina/blob/main/2021-03_Badge_SF-Certified_Administrator_High-Res.png]" height="100" alt="Salesforce Administrator"/>  
+  <img src="[https://raw.githubusercontent.com/Mina-SF/Mina/blob/main/2021-03_Badge_SF-Certified_Administrator_High-Res.png]" height="100" alt="Salesforce Administrator"/>  
  </div>
 
