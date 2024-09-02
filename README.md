@@ -11,15 +11,8 @@ About me
 ☁ Salesforce Credentials
 
 <div align="center">
-  <img src = "![2021-03_Badge_SF-Certified_Administrator_High-Res](https://github.com/user-attachments/assets/064e8d86-8b90-4e05-8905-a6d7d44b74a5)"
+  <img src = [https://mina-sf-dev-ed.develop.lightning.force.com/lightning/setup/ContentAssets/page?address=%2F03S8Y000000Dhbf]
  height="100" alt="Salesforce Administrator"/>  
  </div>
 
 
-
-<img
-src=“![2021-03_Badge_SF-Certified_Administrator_High-Res](https://github.com/user-attachments/assets/5956fc38-38d7-4427-b669-d1b90d9710eb)”
-raw=true
-alt=“Salesforce Admin”
-style=“margin-right: 10px;”
-/>
